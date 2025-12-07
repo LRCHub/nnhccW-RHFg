@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "PODIUM",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T08:17:08.967434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Approach the Podium",
+      "artist": "Winds of Plague",
+      "has_synced": false,
+      "path": "select/01_Approach_the_Podium_Winds_of_Plague.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "Squeezie",
+      "has_synced": true,
+      "path": "select/02_Podium_Squeezie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "Leozin",
+      "has_synced": true,
+      "path": "select/03_Podium_Leozin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "Ez Mil",
+      "has_synced": false,
+      "path": "select/04_Podium_Ez_Mil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "S.Pri Noir",
+      "has_synced": false,
+      "path": "select/05_Podium_S.Pri_Noir.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "L7NNON",
+      "has_synced": true,
+      "path": "select/06_Podium_L7NNON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sorrisos - L7NNON Part. Lourena | Podium",
+      "artist": "L7NNON",
+      "has_synced": true,
+      "path": "select/07_Sorrisos_-_L7NNON_Part._Lourena___Podium_L7NNON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Celebrando a Vida - L7NNON Part. John | Podium",
+      "artist": "L7NNON",
+      "has_synced": true,
+      "path": "select/08_Celebrando_a_Vida_-_L7NNON_Part._John___Podium_L7NNON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "Ldk",
+      "has_synced": true,
+      "path": "select/09_Podium_Ldk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Podium",
+      "artist": "So La Lune",
+      "has_synced": true,
+      "path": "select/10_Podium_So_La_Lune.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Podium (with Mario Kontrargument)",
+      "artist": "Eripe",
+      "has_synced": false,
+      "path": "select/11_Podium_(with_Mario_Kontrargument)_Eripe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kráčam na pódium",
+      "artist": "Miroslav Zbirka",
+      "has_synced": true,
+      "path": "select/12_Kráčam_na_pódium_Miroslav_Zbirka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PODIUM",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_PODIUM_NMIXX.txt"
+    }
+  ]
+}
